@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @cunhanetto
-- 👀 I'm a Front-end web developer.
-- 🌱 I’m currently learning more about hmtl, css and js.
-- 📫 How to reach me: instagram: @cunha_neto
+<h1> 👋 Hi, I’m @cunhanetto a Front-end web developer. I’m currently learning more about hmtl, css and js. How to reach me on instagram: @cunha_neto </h1>
+
 
 <div align="center">
   <a href="https://github.com/cunhanetto">
@@ -19,3 +17,5 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 </div>
+
+  ##
