@@ -18,7 +18,7 @@
 <h2>About Me</h2>
 <p>🌱 Currently, I'm focused on deepening my understanding of backend development and mastering Django, Python's powerful web framework.</p>
 <p>💻 I have a strong foundation in frontend technologies such as HTML, CSS, and JavaScript, enabling me to create seamless user experiences.</p>
-<p>🎓 I'm well-versed in database management systems, with specific expertise in MySQL, which allows me to design and optimize data models effectively.</p>
+<p>🎓 I'm well-versed in database management systems, with specific expertise in Oracledb, which allows me to design and optimize data models effectively.</p>
 <p>🤝 Collaboration is essential to me, and I'm always excited to work on meaningful projects and contribute to the developer community.</p>
 
 <h2>Skills</h2>
